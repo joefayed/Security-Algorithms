@@ -13,7 +13,7 @@ A simple Project performing simple Encryption and decryption algorithms, it only
 5- Press Start <br />
 6- Press Flush to erease the data <br />
 ![](Capture.PNG)
-### SpecIal Notes
+### Special Notes
 #### The file tab contains hex to binary converter and binary to hex converter if needed.
 ![](ss.PNG)
 #### The help tab contains all the needed info to run the program
